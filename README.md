@@ -1,2 +1,2 @@
 # VFPToolBar
-Un menú 100% desarrollado en **Visual FoxPro** que simula el mení de WinRar.
+Un menú 100% desarrollado en **Visual FoxPro** que simula el menú de WinRar.
